@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227425042734",
+    "project_id": "taskeen-f8d88",
+    "storage_bucket": "taskeen-f8d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227425042734:android:a37f8fdb73a15c7596babf",
+        "android_client_info": {
+          "package_name": "pk.taskeen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227425042734-s0o7khf3ablodn6pumpph81dqlr68gb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pk.taskeen.app",
+            "certificate_hash": "c99159672623b46d7156575f366712ed28fc7a20"
+          }
+        },
+        {
+          "client_id": "227425042734-9auleh69a9bmm5p6tleht82elc5a7opj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_41VsW0zdHqoj-hlLat22Bj0BM5rNFfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227425042734-9auleh69a9bmm5p6tleht82elc5a7opj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
